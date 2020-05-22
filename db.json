@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+        "id": 1,
+        "nama": "Ilham Pandu Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "no.tlp": "00000000000"
+      },
+      {
+        "id": 2,
+        "nama": "Pandu Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "no.tlp": "00000000001"
+      },
+      {
+        "id": 3,
+        "nama": "Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "no.tlp": "00000000002"
+      }
+    ]
+}
