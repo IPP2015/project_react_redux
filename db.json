@@ -1,0 +1,88 @@
+{
+    "users":[
+        {
+        "id": 1,
+        "nama": "Ilham Pandu Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000000"
+      },
+      {
+        "id": 2,
+        "nama": "Pandu Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000001"
+      },
+      {
+        "id": 3,
+        "nama": "Putra",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000002"
+      },
+      {
+        "id": 4,
+        "nama": "Ilham Pandu Putra1",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000003"
+      },
+      {
+        "id": 5,
+        "nama": "Pandu Putra1",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000004"
+      },
+      {
+        "id": 6,
+        "nama": "Putra1",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000005"
+      },
+      {
+        "id": 7,
+        "nama": "Ilham Pandu Putra2",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000006"
+      },
+      {
+        "id": 8,
+        "nama": "Pandu Putra2",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000007"
+      },
+      {
+        "id": 9,
+        "nama": "Putra2",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000008"
+      },
+      {
+        "id": 10,
+        "nama": "Ilham Pandu Putra3",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "000000000008"
+      },
+      {
+        "id": 11,
+        "nama": "Pandu Putra3",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000009"
+      },
+      {
+        "id": 12,
+        "nama": "Putra3",
+        "umur": 23,
+        "alamat": "jln.rasamala",
+        "notlp": "00000000010"
+      }
+    ]
+}
